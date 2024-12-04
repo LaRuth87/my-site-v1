@@ -1,0 +1,33 @@
+header {
+  background-color: yellow;
+  height: 150px;
+  border: 10px solid blue;
+  margin: 10px;
+  text-align: center;
+  list-style-type: none;
+}
+
+.no-bullets {
+  list-style-type: none; /* Removes bullet points */
+  padding: 0; /* Removes padding */
+  margin: 0; /* Removes margin */
+}
+
+.no-bullets li {
+  font-size: 16px; /* Optional: Adjust font size */
+  margin-bottom: 10px; /* Optional: Add space between items */
+}
+
+section {
+  background-color: rgb(91, 219, 91);
+  height: 300px;
+  border: 10px solid rgb(72, 108, 193);
+  margin: 10px;
+}
+
+footer {
+  background-color: yellow;
+  height: 150px;
+  border: 10px solid blue;
+  margin: 10px;
+}
